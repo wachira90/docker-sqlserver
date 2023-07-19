@@ -4,7 +4,7 @@ docker-sqlserver
 
 ## images
 
-https://hub.docker.com/u/wachira90
+[https://hub.docker.com/u/wachira90](https://hub.docker.com/r/wachira90/sqlserver)
 
 ```
 wachira90/sqlserver:2022-CU6-ubuntu-20.04
