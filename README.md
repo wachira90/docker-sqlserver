@@ -1,6 +1,14 @@
-# docker-sqlserver2019
+# docker-sqlserver
 
-docker-sqlserver2019
+docker-sqlserver
+
+## images
+
+```
+wachira90/sqlserver:2022-CU6-ubuntu-20.04
+wachira90/sqlserver:2019-CU21-ubuntu-20.04
+wachira90/sqlserver:2017-CU29-ubuntu-16.04
+```
 
 ## docker images at
 
