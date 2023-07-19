@@ -19,6 +19,8 @@ cd docker-sqlserver2019/
 ## start first time
 
 ```sh
+mkdir data/
+sudo chmod -R 0777 data/
 docker-compose up -d
 ```
 
