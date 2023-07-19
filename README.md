@@ -15,7 +15,7 @@ wachira90/sqlserver:2017-CU29-ubuntu-16.04
 ## docker images at
 
 ```sh
-git clone https://github.com/wachira90/docker-sqlserver2019
+git clone https://github.com/wachira90/docker-sqlserver.git
 cd docker-sqlserver2019/
 ```
 ## start first time
